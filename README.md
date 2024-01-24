@@ -1,7 +1,10 @@
-# HMATH
+<img width="1299" alt="dataset" src="https://github.com/qi-github-ui/HMATH/assets/73466589/39796a43-6949-4ab0-a531-5f5e74e8f609"># HMATH
 Dataset for the paper: Machine Tutor for Mathematics Learning: Unveiling the Ability of Large Language Models in Providing Math Word Problem Solving Hints
 ## Description
 This repository hosts the Socratic Math Hints Dataset, a curated collection of hints for various mathematical problems. The hints are presented in a Socratic dialogue format, promoting an inquisitive learning approach.
+
+
+<img width="1299" alt="dataset" src="https://github.com/qi-github-ui/HMATH/assets/73466589/4d35e2e6-7b49-467e-afd5-e0182e0290f4">
 
 ## File Structure
 The dataset is organized into directories, each corresponding to a specific area of mathematics. Inside each directory, you'll find JSON files containing Socratic-style hints tailored to individual math problems.
